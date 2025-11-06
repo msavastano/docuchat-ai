@@ -1,0 +1,5 @@
+{
+  "name": "DocuChat AI",
+  "description": "Chat with your documents using the power of Gemini. Upload text-based files and ask questions to get insights and summaries from the content.",
+  "requestFramePermissions": []
+}
